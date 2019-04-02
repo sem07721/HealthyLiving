@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Health</title>
+	<style type="text/css">
+	body {background-color: #99CCFF}
+	img {float:left}
+	</style>
+</head>
+<body>
+	<tr><td><p><h1>The Healthiest Diet in the World</h1></p>
+	<p>This website will be a report of the world's healthiest foods and what everyone should try to incorporate into their diets everyday.</p>
+	<p></p>
+	<p> Source: <A href="undergroundhealthreporter.com"> The More Fruits & Veggies, the Better! </A></p></td>
+	<td><img src= "multi-colored-fruits-and-vegetables.jpg" height=100 width=300></img></td></tr>
+	
+	<table border = 8>
+<tr><th>Healthy Meals</th> <th>Breakfast</th><th>Lunch</th><th>Dinner</th><th>Snack</th>
+ 
+<tr><th>Example One</th><td>Steel Cut Oats with berries and peanut butter</td><td>Broccoli, carrots, Boy Choy and tempeh on a bed of quinoa</td><td>Mexican style black beans and chickpeas with bell peppers, avocado and salsa</td><td>Protein smoothie with flax seeds</td>
+ 
+<tr><th>Example Two</th><td>Protein smoothie with fresh fruit, granola and chia seeds</td><td>Hummus wrap with tempeh, bell peppers and spinach</td><td>Vegetable whole grain pasta with chickpeas and red sauce</td><td>Handful of Nuts</td>
+
+<tr><th>Example Three</th><td>Whole grain toast with sofritas, avocado and tomato</td><td>Vegetable 5 bean chili and whole grain toast</td><td>Baked tofu with broccoli, brown rice and teriyaki sauce</td><td>Apple with peanut butter</td>
+ 
+</table>
+
+
+<p>In "How Not to Die", a health book discussing the negative impact a poor diet can have on quality of life and lifespan, Dr. Greger provides a "Daily Dozen" checklist of the foods that all people should be eating everyday to prevent disease. You can view this list by clicking on the link below.
+I have created a sample meal plan for three days using this list for anyone concerned with how to get these 12 foods everyday</p>
+</table>
+<p>	<A href="https://veganuary.com/starter-kit/dr-gregers-daily-dozen-checklist/"> Daily Dozen Checklist </A> </p> 
+	<p> </p>
+</body>
+</html>
