@@ -4,16 +4,17 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Health</title>
 	<style type="text/css">
-	body {background-color: #99CCFF}
+	body {background-color: #33CC99}
 	img {float:left}
 	</style>
 </head>
 <body>
-	<tr><td><p><h1>The Healthiest Diet in the World</h1></p>
+	<tr><td><p><h1><font size=+5>The Healthiest Diet in the World</font size></h1></p>
 	<p>This website will be a report of the world's healthiest foods and what everyone should try to incorporate into their diets everyday.</p>
 	<p></p>
 	<p> Source: <A href="undergroundhealthreporter.com"> The More Fruits & Veggies, the Better! </A></p></td>
-	<td><img src= "multi-colored-fruits-and-vegetables.jpg" height=100 width=300></img></td></tr>
+	<p><marquee behavior="alternate"><img src="fruitimage.png" width="150" height="108" alt="Fruit Image"></marquee> </p>
+	<td><img src="th6IW7NAOM.jpg" height=190 width=300 class="rotate90"></img></td></tr>
 	
 	<table border = 8>
 <tr><th>Healthy Meals</th> <th>Breakfast</th><th>Lunch</th><th>Dinner</th><th>Snack</th>
@@ -27,10 +28,25 @@
 </table>
 
 
-<p>In "How Not to Die", a health book discussing the negative impact a poor diet can have on quality of life and lifespan, Dr. Greger provides a "Daily Dozen" checklist of the foods that all people should be eating everyday to prevent disease. You can view this list by clicking on the link below.
-I have created a sample meal plan for three days using this list for anyone concerned with how to get these 12 foods everyday</p>
+<p>In "How Not to Die", a health book discussing the negative impact a poor diet can have on quality of life and lifespan, Dr. Greger provides a "Daily Dozen" checklist of the foods that all people should be eating everyday to prevent disease. You can view this list by clicking on the link below.</p>
+<p>I have created a sample meal plan for three days (above) using this list for anyone concerned with how to get these 12 foods everyday</p>
 </table>
 <p>	<A href="https://veganuary.com/starter-kit/dr-gregers-daily-dozen-checklist/"> Daily Dozen Checklist </A> </p> 
-	<p> </p>
+
+	<p> <marquee> <strong> <font size=+3> Here is a review of what you should be eating everyday: </font size></strong> </marquee></p>
+	<ul>  
+	<li>3 Servings of beans</li>
+	<li>1 Serving of Berries</li> 
+	<li>3 "Other" Fruits</li> 
+	<li>1 Cruciferous Vegetable</li>
+	<li>2 "Other" Vegetables</li>
+	<li>1 Tablespoon of Flaxseeds</li>
+	<li>1 Serving of Nuts and Seeds</li>
+	<li>1 quarter teaspoon of tumeric</li>
+	<li>3 servings of whole grains</li>
+	<li>5 Cups of Water</li>
+	<li>90 mins of moderate activity</li>
+	</ul> 
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/GLV_OSneMqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
