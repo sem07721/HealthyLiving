@@ -9,6 +9,13 @@
 	</style>
 </head>
 <body>
+<div class="navbar">
+  <a href="#1">Home</a>
+  <a href="#2">Daily Dozen</a>
+  <a href="#3">Beans</a>
+  <a href="#4">Antioxidants</a>
+</div>
+
 	<tr><td><p><h1><font size=+5>The Healthiest Diet in the World</font size></h1></p>
 	<p>This website will be a report of the world's healthiest foods and what everyone should try to incorporate into their diets everyday.</p>
 	<p></p>
@@ -32,7 +39,8 @@
 <p>I have created a sample meal plan for three days (above) using this list for anyone concerned with how to get these 12 foods everyday</p>
 </table>
 <p>	<A href="https://veganuary.com/starter-kit/dr-gregers-daily-dozen-checklist/"> Daily Dozen Checklist </A> </p> 
-
+<p> <i> Beans </i> are one of the most important foods to eat and here is why </p>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/GLV_OSneMqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<p> <marquee> <strong> <font size=+3> Here is a review of what you should be eating everyday: </font size></strong> </marquee></p>
 	<ul>  
 	<li>3 Servings of beans</li>
@@ -47,6 +55,13 @@
 	<li>5 Cups of Water</li>
 	<li>90 mins of moderate activity</li>
 	</ul> 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/GLV_OSneMqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</body>
+<table>
+	<tr><td><p><h1>The Power of Antioxidants</h1></p>
+	<p>What are antioxidants?</p>
+	<p>Antioxidants are man-made or natural substances that may prevent or delay some types of cell damage. Antioxidants are found in many foods, including fruits and vegetables. They are also available as dietary supplements. </p>
+	<p>Vegetables and fruits are rich sources of antioxidants. There is good evidence that eating a diet with lots of vegetables and fruits is healthy and lowers risks of certain diseases.</p>
+	<p>	<A href="https://medlineplus.gov/antioxidants.html"> Credit for antioxidant facts </A> </p> </td><td><img src= "antioxidants.jpg"eight=220 width=172></img></td></tr>
+	</table>
+
 </html>
+
