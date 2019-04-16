@@ -1,72 +1,143 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
 <html>
+
 <head>
+
 <META http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
+
 	<title>Health</title>
+
 	<style type="text/css">
+
 	body {background-color: #33CC99}
+
 	img {float:left}
-	h1 {font-size="25"}
-	h2 {font-size="20"}
-	h3 {font-size="20"}
+
+	h1 {font-size=25px}
+
+	h2 {font-size=20px}
+
+	h3 {font-size=20px}
+
 	marquee-style{behavior="alternate}
+
 	object {width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen}
+
 	</style>
+
 	
+
 </head>
+
 <body>
+
 <div class="navbar">
+
   <a href="#1">Home</a>
+
   <a href="#2">Daily Dozen</a>
+
   <a href="#3">Beans</a>
+
   <a href="#4">Antioxidants</a>
+
 </div>
-<p><h1>The Healthiest Diet in the World</h1>
+
+<h1><p>The Healthiest Diet in the World</h1>
+
+
 
 	<p>This website will be a report of the world's healthiest foods and what everyone should try to incorporate into their diets everyday.</p>
+
 	<p></p>
+
 	<p> Source: <A href="undergroundhealthreporter.com"> The More Fruits & Veggies, the Better! </A></p>
+
 	<p><marquee><img src="fruitimage.png" width="150" height="108" alt="Fruit Image"></marquee> </p>
+
 	<p><img src="th6IW7NAOM.jpg" height=190 width=300 class="rotate90" alt= Fruit></p>
+
 	
+
 	<table border = 8>
+
 <tr><th>Healthy Meals</th> <th>Breakfast</th><th>Lunch</th><th>Dinner</th><th>Snack</th>
+
  
+
 <tr><th>Example One</th><td>Steel Cut Oats with berries and peanut butter</td><td>Broccoli, carrots, Boy Choy and tempeh on a bed of quinoa</td><td>Mexican style black beans and chickpeas with bell peppers, avocado and salsa</td><td>Protein smoothie with flax seeds</td>
+
  
+
 <tr><th>Example Two</th><td>Protein smoothie with fresh fruit, granola and chia seeds</td><td>Hummus wrap with tempeh, bell peppers and spinach</td><td>Vegetable whole grain pasta with chickpeas and red sauce</td><td>Handful of Nuts</td>
 
+
+
 <tr><th>Example Three</th><td>Whole grain toast with sofritas, avocado and tomato</td><td>Vegetable 5 bean chili and whole grain toast</td><td>Baked tofu with broccoli, brown rice and teriyaki sauce</td><td>Apple with peanut butter</td>
+
  
+
 </table>
 
 
+
+
+
 <p>In "How Not to Die", a health book discussing the negative impact a poor diet can have on quality of life and lifespan, Dr. Greger provides a "Daily Dozen" checklist of the foods that all people should be eating everyday to prevent disease. You can view this list by clicking on the link below.</p>
+
 <p>I have created a sample meal plan for three days (above) using this list for anyone concerned with how to get these 12 foods everyday</p>
+
 <p>	<A href="https://veganuary.com/starter-kit/dr-gregers-daily-dozen-checklist/"> Daily Dozen Checklist </A> </p> 
+
 <p> <i> Beans </i> are one of the most important foods to eat and here is why </p>
+
 	<p><object data="https://www.youtube.com/embed/GLV_OSneMqU"></object></p>
+
 	<h2><strong>Here is a review of what you should be eating everyday: </strong></h2>
+
 	<ul>  
+
 	<li>3 Servings of beans</li>
+
 	<li>1 Serving of Berries</li> 
+
 	<li>3 "Other" Fruits</li> 
+
 	<li>1 Cruciferous Vegetable</li>
+
 	<li>2 "Other" Vegetables</li>
+
 	<li>1 Tablespoon of Flaxseeds</li>
+
 	<li>1 Serving of Nuts and Seeds</li>
+
 	<li>1 quarter teaspoon of tumeric</li>
+
 	<li>3 servings of whole grains</li>
+
 	<li>5 Cups of Water</li>
+
 	<li>90 mins of moderate activity</li>
+
 	</ul> 
+
 <table>
-	<tr><td><p><h3>The Power of Antioxidants</h3>
-	<p>What are antioxidants?</p>
+
+<h3><tr><th><p>The Power of Antioxidants</th></h3>
+
+	<td><p><strong>What are antioxidants?</p></strong>
+
 	<p>Antioxidants are man-made or natural substances that may prevent or delay some types of cell damage. Antioxidants are found in many foods, including fruits and vegetables. They are also available as dietary supplements. </p>
+
 	<p>Vegetables and fruits are rich sources of antioxidants. There is good evidence that eating a diet with lots of vegetables and fruits is healthy and lowers risks of certain diseases.</p>
+
 	<p>	<A href="https://medlineplus.gov/antioxidants.html"> Credit for antioxidant facts </A> </p> <img src= "antioxidants.jpg" height=220 width=250 alt=berries ></td></tr>
 
+
+
 	</table>
+
+
 
 </html>
