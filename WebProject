@@ -1,12 +1,18 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<META http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
 	<title>Health</title>
 	<style type="text/css">
 	body {background-color: #33CC99}
 	img {float:left}
+	h1 {font-size="25"}
+	h2 {font-size="20"}
+	h3 {font-size="20"}
+	marquee-style{behavior="alternate}
+	object {width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen}
 	</style>
+	
 </head>
 <body>
 <div class="navbar">
@@ -15,13 +21,13 @@
   <a href="#3">Beans</a>
   <a href="#4">Antioxidants</a>
 </div>
+<p><h1>The Healthiest Diet in the World</h1>
 
-	<tr><td><p><h1><font size=+5>The Healthiest Diet in the World</font size></h1></p>
 	<p>This website will be a report of the world's healthiest foods and what everyone should try to incorporate into their diets everyday.</p>
 	<p></p>
-	<p> Source: <A href="undergroundhealthreporter.com"> The More Fruits & Veggies, the Better! </A></p></td>
-	<p><marquee behavior="alternate"><img src="fruitimage.png" width="150" height="108" alt="Fruit Image"></marquee> </p>
-	<td><img src="th6IW7NAOM.jpg" height=190 width=300 class="rotate90"></img></td></tr>
+	<p> Source: <A href="undergroundhealthreporter.com"> The More Fruits & Veggies, the Better! </A></p>
+	<p><marquee><img src="fruitimage.png" width="150" height="108" alt="Fruit Image"></marquee> </p>
+	<p><img src="th6IW7NAOM.jpg" height=190 width=300 class="rotate90" alt= Fruit></p>
 	
 	<table border = 8>
 <tr><th>Healthy Meals</th> <th>Breakfast</th><th>Lunch</th><th>Dinner</th><th>Snack</th>
@@ -37,11 +43,10 @@
 
 <p>In "How Not to Die", a health book discussing the negative impact a poor diet can have on quality of life and lifespan, Dr. Greger provides a "Daily Dozen" checklist of the foods that all people should be eating everyday to prevent disease. You can view this list by clicking on the link below.</p>
 <p>I have created a sample meal plan for three days (above) using this list for anyone concerned with how to get these 12 foods everyday</p>
-</table>
 <p>	<A href="https://veganuary.com/starter-kit/dr-gregers-daily-dozen-checklist/"> Daily Dozen Checklist </A> </p> 
 <p> <i> Beans </i> are one of the most important foods to eat and here is why </p>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/GLV_OSneMqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	<p> <marquee> <strong> <font size=+3> Here is a review of what you should be eating everyday: </font size></strong> </marquee></p>
+	<p><object data="https://www.youtube.com/embed/GLV_OSneMqU"></object></p>
+	<h2><strong>Here is a review of what you should be eating everyday: </strong></h2>
 	<ul>  
 	<li>3 Servings of beans</li>
 	<li>1 Serving of Berries</li> 
@@ -56,12 +61,12 @@
 	<li>90 mins of moderate activity</li>
 	</ul> 
 <table>
-	<tr><td><p><h1>The Power of Antioxidants</h1></p>
+	<tr><td><p><h3>The Power of Antioxidants</h3>
 	<p>What are antioxidants?</p>
 	<p>Antioxidants are man-made or natural substances that may prevent or delay some types of cell damage. Antioxidants are found in many foods, including fruits and vegetables. They are also available as dietary supplements. </p>
 	<p>Vegetables and fruits are rich sources of antioxidants. There is good evidence that eating a diet with lots of vegetables and fruits is healthy and lowers risks of certain diseases.</p>
-	<p>	<A href="https://medlineplus.gov/antioxidants.html"> Credit for antioxidant facts </A> </p> </td><td><img src= "antioxidants.jpg"eight=220 width=172></img></td></tr>
+	<p>	<A href="https://medlineplus.gov/antioxidants.html"> Credit for antioxidant facts </A> </p> <img src= "antioxidants.jpg" height=220 width=250 alt=berries ></td></tr>
+
 	</table>
 
 </html>
-
